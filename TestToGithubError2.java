@@ -10,7 +10,7 @@ public class TestToGithubError2 {
 	
 		Integer number;
 		
-		number = sc.nextInt();
+		number = 3;
 		
 		for (int i = 0; i < number; i++) {
 			
